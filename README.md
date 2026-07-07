@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+![Header](./github-header-banner(1).png)
 ## Hi there 👋
 AI/ML Engineer.
 Focused on building scalable backend infrastructure and intelligent AI/ML systems. Passionate about clean code, seamless user experiences, and bridging the gap between complex data and elegant digital products.
