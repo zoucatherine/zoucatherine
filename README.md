@@ -37,8 +37,13 @@ Focused on building scalable backend infrastructure and intelligent AI/ML system
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 [![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#)
 
+## Stats
+
+[![Catherine's GitHub stats](https://github-stats-extended.vercel.app/api?username=zoucatherine)](https://github.com/stats-organization/github-stats-extended)
+
 <!--
 Link to badges: https://github.com/inttter/md-badges
+Link to stats: https://github.com/stats-organization/github-stats-extended
 **zoucatherine/zoucatherine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
