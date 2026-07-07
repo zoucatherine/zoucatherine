@@ -38,6 +38,7 @@ Focused on building scalable backend infrastructure and intelligent AI/ML system
 [![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#)
 
 <!--
+Link to badges: https://github.com/inttter/md-badges
 **zoucatherine/zoucatherine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
