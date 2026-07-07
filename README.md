@@ -39,7 +39,7 @@ Focused on building scalable backend infrastructure and intelligent AI/ML system
 
 ## Stats
 
-[![Catherine's GitHub stats](https://github-stats-extended.vercel.app/api?username=zoucatherine)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=zoucatherine&langs_count=4&theme=omni)](https://github-stats-extended.vercel.app/api/top-langs?username=zoucatherine&langs_count=4&theme=omni)
 
 <!--
 Link to badges: https://github.com/inttter/md-badges
