@@ -25,7 +25,8 @@ Focused on building scalable backend infrastructure and intelligent AI/ML system
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
 **Infrastructure/Cloud**
-[wip]
+
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 
 **MLOps Tools**
 
