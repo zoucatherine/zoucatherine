@@ -2,6 +2,8 @@
 AI/ML Engineer.
 Focused on building scalable backend infrastructure and intelligent AI/ML systems. Passionate about clean code, seamless user experiences, and bridging the gap between complex data and elegant digital products.
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zoucatherine.zoucatherine)
+
 ## Tech Stack
 **Languages**
 
@@ -10,10 +12,12 @@ Focused on building scalable backend infrastructure and intelligent AI/ML system
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 **ML/DL Frameworks**
+
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 
 **Data Tools**
+
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 
 **Infrastructure/Cloud**
