@@ -28,7 +28,8 @@ Focused on building scalable backend infrastructure and intelligent AI/ML system
 [wip]
 
 **MLOps Tools**
-[wip]
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
 **Visualization**
 
