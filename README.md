@@ -4,15 +4,22 @@ Focused on building scalable backend infrastructure and intelligent AI/ML system
 
 ## Tech Stack
 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
 **ML/DL Frameworks**
 [wip]
+
 **Data Tools**
+[wip]
 **Infrastructure/Cloud**
+[wip]
 **MLOps Tools**
+[wip]
 **Visualization**
+[wip]
 <!--
 **zoucatherine/zoucatherine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
