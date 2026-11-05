@@ -43,11 +43,11 @@ Focused on building scalable backend infrastructure and intelligent AI/ML system
 
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 [![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#)
-
+<!--
 ## Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=zoucatherine&langs_count=4&theme=omni)](https://github-stats-extended.vercel.app/api/top-langs?username=zoucatherine&langs_count=4&theme=omni)
-
+-->
 <!--
 Link to badges: https://github.com/inttter/md-badges
 Link to stats: https://github.com/stats-organization/github-stats-extended
